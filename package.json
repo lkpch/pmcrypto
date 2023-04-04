@@ -1,5 +1,5 @@
 {
-    "name": "@protontech/pmcrypto",
+    "name": "@lkpch/protontech-pmcrypto",
     "version": "7.7.0",
     "description": "",
     "main": "./lib/index.ts",
